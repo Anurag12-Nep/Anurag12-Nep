@@ -14,7 +14,7 @@ programming, technology and building useful projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anurag-gupta-63b042397/)]])
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anuraggupta.nep@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=anuraggupta.nep@gmail.com)
 
 ---
 
